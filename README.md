@@ -1,6 +1,6 @@
-                                                                      Cloud Native Monitoring Application On Kubernetes!
+Cloud Native Monitoring Application On Kubernetes!
 
-                                                          In this Project, one can learn about the Deployment of Python applications.
+In this Project, one can learn about the Deployment of Python applications.
 
 I understood this project to have four major classifications as follows:
 1. Build: Code Development
