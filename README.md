@@ -66,6 +66,9 @@ Fun Fact: -r allows pip install to open requirements. txt and install the packag
     ![CMD](https://github.com/DevOpsShree/cloud_monitoring/assets/125661746/0620c354-cadb-4f28-a6ac-e3103b1e3235)
     ![screen 2](https://github.com/DevOpsShree/cloud_monitoring/assets/125661746/cb79149f-de77-40a9-b122-9c925445bf44)
 
+    Credits: Youtube channels: Cloud Champ, Abhishek.Veeramalla
+
+
 
    
    
